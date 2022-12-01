@@ -1,0 +1,65 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <title>Sureshkumar Webpage</title>
+        <link rel="stylesheet" href="/style.css">
+    </head>
+    <body>
+        <div class="background_image">
+            <div class="main">
+                <div class="navbar">
+                    <div class="icon">
+                        <div class="logo">Webpage</div>
+                    </div>
+
+                    <div class="menu">
+                        <ul>
+                            <li><a href="#">Profile</a></li>
+                            <li><a href="#">Skills</a></li>
+                            <li><a href="#">Courses</a></li>
+                            <li><a href="#">Education</a></li>
+                            <li><a href="#">Projets</a></li>
+                            <li><a href="#">Contact</a></li>
+                        </ul>
+                    </div>
+                    <div class="search">
+                        <input class="srch" type="search" name="" placeholder="Type to text">
+                        <a href="#"> <button class="btn">Search</button></a>
+                                        </div>
+                                        <div class="content">
+                                            <h1>Sureshkumar</h1>
+                                            <p class="par">Seeking a challenging position
+                                                in a reputable organization ,<br>to
+                                                expand and utilize my learning,
+                                                skills and knowledge.<br> Possess
+                                                excellent communication skills.
+                                                Flexible to work in any
+                                                environment as required<br>Possess some basic knowledge about programming languages</p>
+
+                                                <button class="cn"><a href="#">More</a></button>
+                                                
+                                                <div class="form">
+                                                    <h2>Login here</h2>
+                                                    <input type="email" name="email" placeholder="Enter email here">
+                                                    <input type="password" name="password" placeholder="Enter password here">
+                                                    <button class="btn"><a href="#">login</a></button>
+
+                                                    <p class="link">Don't have an account</p><br>
+                                                    <a href="#">Sign up here</a>
+                                                    <p class="liw">Log in with</p>
+
+                                                    <div class="icon">
+                                                        <a href="#"><icon-icon name="logo-facebook"></icon-icon></a>
+                                                        <a href="#"><icon-icon name="logo-instagrm"></icon-icon></a>
+                                                        <a href="#"><icon-icon name="logo-twitter"></icon-icon></a>
+                                                        <a href="#"><icon-icon name="logo-google"></icon-icon></a>
+                                                        <a href="#"><icon-icon name="logo-skype"></icon-icon></a>
+                                                    </div>
+                                                </div>
+                                        </div>
+                </div>
+            </div>
+        </div>
+        <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+    </body>
+</html>
